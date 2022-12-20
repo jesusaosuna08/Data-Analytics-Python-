@@ -7,3 +7,5 @@ Showcase skills in data analytics through Python projects
 "2021 PFF Grade + QBR .ipynb" --> Web scraping, data cleaning, data visualization
 
 "Breaking Bad Seasons Comparison.ipynb" --> Data cleaning, groupby and pivot table, data visualization
+
+"World Bank International Education East Asia.ipynb" --> Data cleaning, data visualization
